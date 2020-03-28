@@ -29,14 +29,17 @@ h2 {
     margin-right: auto
     }    
 #main-bio {
-    float: left;
     width: 70%;
     }
 #contact-info {
-    float: left;
     width: 30%;
     }
 #bio-image {
+    width: 200px;
+    height: 200px;
+    }
+#main-bio,
+#contact-info,
+#bio-image {
     float: left;
-    width: 50%;
     }
